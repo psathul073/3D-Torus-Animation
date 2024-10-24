@@ -1,5 +1,4 @@
 # 3D-Torus-Animation
-# 3D-Torus-Animation
 
 Welcome to the **3D Torus Animation** project! This project is a visually stunning and interactive 3D animation of a rotating torus, built using **HTML**, **CSS**, **JavaScript**, the **Canvas API**, and the **GSAP (GreenSock Animation Platform)** for smooth animations.
 
